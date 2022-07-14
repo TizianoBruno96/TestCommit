@@ -7,16 +7,16 @@ per profili di utenza:
 	sottocategorie (cucina, soggiorno, camera, tappeti, tende, lampadari, lampade da esterno).I prodotti possono essere
 	composti da altri prodotti, vendibili singolarmente. Per ogni prodotto, l'amministratore definisce il costo, la 
 	collocazione nel magazzino self-service in termini di numero di corsia e numero di scaffale. Per ogni prodotto
-	l'amministrazione definisce il produttore (nome, sito web, città, nazione). I servizi sono suddivisi in categorie
+	l'amministratore definisce il produttore (nome, sito web, città, nazione). I servizi sono suddivisi in categorie
 	(montaggio, trasporto). Per ogni servizio l'amministratore definisce il costo. L'amministratore può creare
 	liberamente nuovi prodotti, nuove composizioni di prodotti, nuove categorie e sottocategorie, nuovi produttori,
 	nuovi servizi, senza che sia necessaria alcuna modifica alla base di dati e al software. L'amministratore crea più
 	punti vendita sul territorio e decide quali articoli possono vendere. L'amministrazione crea un utente manager di 
 	ogni punto vendita.
 
-- 	Manager: si autentica ala sistema per gestire la disponibilità di articoli a magazzino e rifornire periodicamente il
+- 	Manager: si autentica al sistema per gestire la disponibilità di articoli a magazzino e rifornire periodicamente il
 	magazzino stesso. Il manager può inviare messaggi di e-mail agli utenti acquirenti registrati nel suo punto vendita.
-	Il manager può rispondere ai commenti lasciati dagli utenti ch ehanno fatto acquisti nel suo punto vendita. Il
+	Il manager può rispondere ai commenti lasciati dagli utenti che hanno fatto acquisti nel suo punto vendita. Il
 	manager gestisce (disabilita, cancella) gli utenti acquirenti registrati nel suo punto vendita.
 
 - 	Utente acquirente: si autentica a un qualunque punto vendita del sistema per cercare articoli, consultare i relativi
@@ -52,7 +52,7 @@ numero massimo consentito) o singolarmente.
 Due giorni solari prima dell'appello d'esame orale devono essere inviati al docente per e-mail come link a un drive la
 documentazione di progetto in formato PDF e il software realizzato, in un unico file compresso in formato ZIP. I software
 consegnati saranno sottoposti a test di similarità, utilizzando strumenti automatici (tipo DIFF o più evoluti).
-Il giorno dell'esame orale deve: (1) essere gornita la documentazione in digitale. (2) eseguita una dimostrazione interattiva del
+Il giorno dell'esame orale deve: (1) essere fornita la documentazione in digitale. (2) eseguita una dimostrazione interattiva del
 sistema software. A ogni componente del gruppo, singolarmente, sarà richiesto di modificare il software utilizzando
 l'ambiente di sviluppo, implementando nuovi requisiti forniti dal docente al momento. La documentazione deve essere
 composta da un unico documento con frontespizio e indice, contenente: (1) analisi dei requisiti, (2) progettazione UML
